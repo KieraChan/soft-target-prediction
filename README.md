@@ -6,7 +6,7 @@ This repository contains the code for the PLIN0072 project on soft-target next-t
 
 Run the notebook:
 
-- `ST_project_full_wikitext2.ipynb`
+- `ST_project_full_wikitext2.py`
 
 The notebook trains and evaluates four settings on WikiText-2:
 
